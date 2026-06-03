@@ -31,7 +31,7 @@ graph TD
 ```
 
 
-
+---
 
 ## 🛠️ Tech Stack & Database Architecture
 
@@ -75,7 +75,7 @@ CREATE TABLE custom_requests (
 ```
 
 
-
+---
 
 ### 🌟 Core Business Features & Production Architecture
 
