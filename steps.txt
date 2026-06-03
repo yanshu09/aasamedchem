@@ -1,0 +1,2 @@
+first i have installed next.js using npx create -next-app@latest . (. isliye use kiya kyunki issi folder mei install krna tha
+)
