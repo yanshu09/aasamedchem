@@ -140,3 +140,16 @@ If deployed inside an actual commercial healthcare enterprise environment, the p
 1. **Automated RFQ (Request for Quote) Matching:** Implementing machine learning algorithms to auto-assign custom buyer tickets to sellers who historically list similar compound classes.
 2. **Blockchain-Backed Audit Ledgers:** Moving the centralized Admin validation status hooks onto a hyperledger framework to secure drug provenance and batch compliance tracing.
 3. **IoT Inventory Integrations:** Connecting automated telemetry nodes inside seller warehouses to auto-trigger Next.js listing modifications the second physical chemical containers drop below safe reserve limits.
+
+---
+LIVE LINK -> https://vercel.com/yanshu-agarwals-projects/aasamedchem
+
+I used sample credentials:
+for sellers ->
+email = "seller@medchem.com" && pass = "seller123"
+
+for buyer ->
+email = "user@test.com" && pass = "user123"
+
+for admin ->
+email = "admin@medchem.com" && pass = "admin123"
