@@ -31,7 +31,7 @@ graph TD
 ```
 
 
-    ---
+
 
 ## 🛠️ Tech Stack & Database Architecture
 
@@ -74,9 +74,9 @@ CREATE TABLE custom_requests (
 );
 
 
----
 
-## 🌟 Core Business Features & Production Architecture
+
+### 🌟 Core Business Features & Production Architecture
 
 This portal is designed to solve real-world pharmaceutical logistics challenges, specifically dealing with direct B2B procurement, precise multi-unit calculations, and distributed ledger state synchronization between stakeholders.
 
