@@ -28,7 +28,7 @@ graph TD
     
     %% Sync Feedback
     DB -.->|10. Live Status Updates 'Pending ➔ Completed'| Buyer
-
+```
 
 
     ---
