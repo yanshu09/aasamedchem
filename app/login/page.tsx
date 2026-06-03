@@ -9,11 +9,14 @@ export default function LoginPage() {
 
   const handleLogin = (e: any) => {
     e.preventDefault();
-    if (email === "admin@medchem.com" && pass === "admin123") {
-      router.push("/admin");
-    } else if (email === "user@test.com" && pass === "user123") {
-      router.push("/");
-    } else {
+    // app/login/page.tsx ke handleLogin mein ye add karo
+if (email === "admin@medchem.com" && pass === "admin123") {
+    router.push("/admin");
+} else if (email === "seller@medchem.com" && pass === "seller123") {
+    router.push("/seller"); // Naya redirect
+} else if (email === "user@test.com" && pass === "user123") {
+    router.push("/");
+} else {
       alert("Invalid Credentials! Use admin@medchem.com or user@test.com");
     }
   };
