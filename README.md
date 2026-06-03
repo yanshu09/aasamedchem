@@ -72,6 +72,7 @@ CREATE TABLE custom_requests (
     urgency_notes TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
 
 
 
